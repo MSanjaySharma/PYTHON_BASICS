@@ -13,11 +13,7 @@ This repository is dedicated to practicing Python programming and exploring vari
 
 To get started with this repository, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
-
-   ```
-   git clone https://github.com/your-username/python-practice.git
-   ```
+1. Clone the repository to your local machine.
 
 2. Ensure you have Python installed on your system. You can download Python from the official website: [python.org](https://www.python.org/downloads/).
 
