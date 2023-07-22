@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for a repository that contains Python practice and syntax:
-
 # Python Practice
 
 This repository is dedicated to practicing Python programming and exploring various Python syntax concepts. It serves as a collection code examples, exercises, and projects to enhance Python skills.
